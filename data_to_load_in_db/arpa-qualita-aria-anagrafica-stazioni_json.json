@@ -52,9 +52,9 @@
 {"stazione_id":"1908371","zone_id":"IT1914","stazione_nome":"a2a - Milazzo","stazione_latitudine":38.231469,"stazione_longitudine":15.247567},
 {"stazione_id":"1908310","zone_id":"IT1914","stazione_nome":"a2a - Pace del mela","stazione_latitudine":38.183005,"stazione_longitudine":15.301496},
 {"stazione_id":"1908312","zone_id":"IT1914","stazione_nome":"a2a - S.Filippo del Mela","stazione_latitudine":38.174624,"stazione_longitudine":15.271443},
-{"stazione_id":"102","zone_id":"IT1914","stazione_nome":"Gela Pontile","stazione_latitudine":37.070349,"stazione_longitudine":14.253618},
+{"stazione_id":"102","zone_id":"IT1914","stazione_nome":"Gela Pontile","stazione_latitudine":0.000000,"stazione_longitudine":0.000000},
 {"stazione_id":"110","zone_id":"IT1914","stazione_nome":"Augusta Contrada Marcellino","stazione_latitudine":37.221026,"stazione_longitudine":15.169058},
 {"stazione_id":"1908971","zone_id":"IT1914","stazione_nome":"Augusta Megara","stazione_latitudine":37.194600,"stazione_longitudine":15.182900},
-{"stazione_id":"112","zone_id":"IT1914","stazione_nome":"Augusta Villa Augusta","stazione_latitudine":37.221026,"stazione_longitudine":15.169058},
+{"stazione_id":"112","zone_id":"IT1914","stazione_nome":"Augusta Villa Augusta","stazione_latitudine":0.000000,"stazione_longitudine":0.000000},
 {"stazione_id":"1908517","zone_id":"IT1914","stazione_nome":"Parcheggio AGIP","stazione_latitudine":37.059610,"stazione_longitudine":14.265080}
 ]
